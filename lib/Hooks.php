@@ -12,9 +12,7 @@
 namespace ICanBoogie\Binding\Mailer;
 
 use ICanBoogie\Core;
-use ICanBoogie\Mailer\BeforeMailEvent;
 use ICanBoogie\Mailer\Mailer;
-use ICanBoogie\Mailer\MailEvent;
 use ICanBoogie\Mailer\Message;
 
 /**
